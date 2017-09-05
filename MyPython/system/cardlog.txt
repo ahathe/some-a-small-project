@@ -1,0 +1,7 @@
+account log:
+data...processed
+ignored: could not convert string to float: #carddata.txt
+ignored: could not convert string to float: previous balance
+ignored: could not convert string to float: debits
+ignored: could not convert string to float: credits
+ignored: could not convert string to float: finance charge/late fees

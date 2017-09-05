@@ -1,0 +1,6 @@
+58.94
+#carddata.txt
+previous balance
+debits
+credits
+finance charge/late fees
