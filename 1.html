@@ -1,0 +1,15 @@
+<form id= "test">
+<input type= "test" id="Tel" />
+<input type= "button" value= "验证" onclick="checkTel()" />
+</form>
+<script type="text/javascript">
+function checkTel(){
+	var re = /^020-\d{8}$/
+	if(re.test(document.getElementById("Tel").value)){
+		alert("电话格式正确");
+	}else{
+		alert("错误的电话号码");
+	}
+}
+</script>
+N0JjjRmKM*0Lufkc$W
